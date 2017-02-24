@@ -1,0 +1,56 @@
+
+
+.active{
+  background: #68b8c4;
+}
+
+button:focus{
+  outline: 0 none;
+}
+
+.product-grid:after{
+  display: inline-block;
+  width: 100%;
+}
+
+.product-grid .mix,
+.product-grid .gap{
+  display: inline-block;
+}
+
+.product-grid .mix{
+  display: none;
+}
+
+
+
+.product-grid .mix:after{
+
+  display: inline-block;
+
+}
+
+.product-grid .mix:before{
+  display: inline-block;
+}
+
+#flag{
+	width: 40px;
+}
+
+.menu:hover{
+	cursor: pointer;
+}
+
+#logo{
+	width: 38px;
+}
+
+.reseau{
+	width: 50px;
+	border-radius: 50%;
+}
+
+h4{
+	padding-top: 20px;
+}
